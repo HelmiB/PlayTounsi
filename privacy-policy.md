@@ -8,7 +8,7 @@ Play Tounsi ("the app") is a Tunisian card games app. This policy explains what 
 
 ## Data We Collect
 
-When you sign in with Google or Facebook, we receive your **name**, **email address**, and **profile picture**. This information is used solely to identify your account within the app.
+When you sign in with Google, we receive your **name**, **email address**, and **profile picture**. This information is used solely to identify your account within the app.
 
 We also store your **game progress and scores** in Firebase (Google's cloud service) to keep your data synced across sessions.
 
@@ -27,7 +27,6 @@ We do **not** sell, share, or rent your personal data to any third party.
 The app uses the following services, each with their own privacy policies:
 
 - [Firebase / Google](https://policies.google.com/privacy)
-- [Facebook Login](https://www.facebook.com/policy.php)
 
 ## Data Retention
 
