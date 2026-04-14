@@ -7,7 +7,7 @@ If you would like to delete your **Play Tounsi** account and associated data, fo
 Send an email to **playtounsi.app@gmail.com** with:
 
 - **Subject:** Account Deletion Request
-- **Body:** Your registered email address (the one used to sign in with Google or Facebook)
+- **Body:** Your registered email address (the one used to sign in with Google)
 
 We will process your request within **7 days**.
 
